@@ -6,32 +6,6 @@
   },
   {
     "title": "致谢",
-    "menuIcon": "💘",
-    "items": [
-      {
-        "title": "Vue",
-        "link": "vuejs.org"
-      },
-      {
-        "title": "NaiveUI",
-        "link": "naiveui.com"
-      },
-      {
-        "title": "Vite",
-        "link": "vitejs.dev"
-      },
-      {
-        "title": "TypeScript",
-        "link": "typescriptlang.org"
-      },
-      {
-        "title": "CodeMirror",
-        "link": "codemirror.net"
-      },
-      {
-        "title": "FaviconKit",
-        "link": "faviconkit.com"
-      }
-    ]
+    "menuIcon": "💘"
   }
 ]
