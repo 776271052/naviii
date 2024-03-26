@@ -16,8 +16,6 @@ const setMobileValues = () => {
   cardItemWidth = "50px";
 };
 
-const searchJump = "_self";
-const openBookMarkJump = "_blank";
 
 const contentTheme = {
   light: "linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%)",
