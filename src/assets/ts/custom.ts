@@ -1,5 +1,4 @@
 import { getUserClientType } from "@/assets/ts/utils";
-import defaultEnginesMap from "@/assets/config/search.json";
 import defaultBookMarks from "@/assets/config/bookmarks.json";
 
 // PC
