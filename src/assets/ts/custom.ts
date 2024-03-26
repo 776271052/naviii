@@ -51,7 +51,6 @@ export {
   iconAPI,
   enginesMap,
   defaultEngineKey,
-  searchJump,
   openBookMarkJump,
   siderMode,
 };
