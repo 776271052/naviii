@@ -3,5 +3,62 @@
     "title": "Home",
     "link": "52tt.club",
     "menuIcon": "⭐"
+  },
+  {
+    "title": "Wiki",
+    "link": "zh.wikipedia.org/wiki"
+    "items": [
+      {
+        "title": "Github",
+        "link": "github.com/trending"
+      },
+      {
+        "title": "V2EX",
+        "link": "v2ex.com"
+      }
+    ]
+  },
+  {
+    "title": "社区",
+    "items": [
+      {
+        "title": "Github",
+        "link": "github.com/trending"
+      },
+      {
+        "title": "V2EX",
+        "link": "v2ex.com"
+      }
+    ]
+  },
+  {
+    "title": "致谢",
+    "menuIcon": "💘",
+    "items": [
+      {
+        "title": "Vue",
+        "link": "vuejs.org"
+      },
+      {
+        "title": "NaiveUI",
+        "link": "naiveui.com"
+      },
+      {
+        "title": "Vite",
+        "link": "vitejs.dev"
+      },
+      {
+        "title": "TypeScript",
+        "link": "typescriptlang.org"
+      },
+      {
+        "title": "CodeMirror",
+        "link": "codemirror.net"
+      },
+      {
+        "title": "FaviconKit",
+        "link": "faviconkit.com"
+      }
+    ]
   }
 ]
